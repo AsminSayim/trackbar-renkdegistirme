@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\trackbar-renkdeğiştirme\trackbar-renkdeğiştirme\bin\Debug\trackbar-renkdeğiştirme.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\trackbar-renkdeğiştirme\trackbar-renkdeğiştirme\bin\Debug\trackbar-renkdeğiştirme.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\trackbar-renkdeğiştirme\trackbar-renkdeğiştirme\bin\Debug\trackbar-renkdeğiştirme.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\trackbar-renkdeğiştirme\trackbar-renkdeğiştirme\obj\Debug\trackbar-renkdeğiştirme.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\trackbar-renkdeğiştirme\trackbar-renkdeğiştirme\obj\Debug\trackbar-renkdeğiştirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\trackbar-renkdeğiştirme\trackbar-renkdeğiştirme\obj\Debug\trackbar_renkdeğiştirme.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\trackbar-renkdeğiştirme\trackbar-renkdeğiştirme\obj\Debug\trackbar_renkdeğiştirme.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\trackbar-renkdeğiştirme\trackbar-renkdeğiştirme\obj\Debug\trackbar-renkdeğiştirme.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\trackbar-renkdeğiştirme\trackbar-renkdeğiştirme\obj\Debug\trackbar-renkdeğiştirme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\trackbar-renkdeğiştirme\trackbar-renkdeğiştirme\obj\Debug\trackbar-renkdeğiştirme.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\trackbar-renkdeğiştirme\trackbar-renkdeğiştirme\obj\Debug\trackbar-renkdeğiştirme.pdb
